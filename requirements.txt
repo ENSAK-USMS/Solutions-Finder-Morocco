@@ -23,7 +23,7 @@ django-redis==5.4.0  # For Redis cache integration
 
 # Storage
 django-storages==1.14.2
-Pillow==10.1.0  # Required for ImageField
+Pillow==10.3.0  # Required for ImageField
 
 # Monitoring
 django-prometheus==2.3.1
